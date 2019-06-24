@@ -8,8 +8,4 @@ Learning by doing.
 
 # Usage
 
-Not sure yet ;)
-
-
-
-
+Go to https://pawelslowik.github.io ;)
